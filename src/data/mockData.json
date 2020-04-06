@@ -1,0 +1,58 @@
+{
+  "data": [
+  {
+     "name": "LGBT Store 1",
+     "address": "help",
+     "Products": [
+	      {
+ 	        "productTitle": "Product1",
+	        "productDescription": "bla",
+	       },
+         {
+  	        "productTitle": "Product2",
+ 	        "productDescription": "bla",
+ 	       },
+         {
+  	        "productTitle": "Product3",
+ 	        "productDescription": "bla",
+ 	       },
+      ],
+   },
+   {
+      "name": "LGBT Store 2",
+      "address": "help",
+      "Products": [
+ 	      {
+  	        "productTitle": "Product1",
+ 	        "productDescription": "bla",
+ 	       },
+          {
+   	        "productTitle": "Product2",
+  	        "productDescription": "bla",
+  	       },
+          {
+   	        "productTitle": "Product3",
+  	        "productDescription": "bla",
+  	       },
+       ],
+    },
+    {
+       "name": "LGBT Store 3",
+       "address": "help",
+       "Products": [
+  	      {
+   	        "productTitle": "Product1",
+  	        "productDescription": "bla",
+  	       },
+           {
+    	        "productTitle": "Product2",
+   	        "productDescription": "bla",
+   	       },
+           {
+    	        "productTitle": "Product3",
+   	        "productDescription": "bla",
+   	       },
+        ],
+     },
+  ],
+}
