@@ -1,58 +1,70 @@
 {
   "data": [
-  {
-     "name": "LGBT Store 1",
-     "address": "help",
-     "Products": [
-	      {
- 	        "productTitle": "Product1",
-	        "productDescription": "bla",
-	       },
-         {
-  	        "productTitle": "Product2",
- 	        "productDescription": "bla",
- 	       },
-         {
-  	        "productTitle": "Product3",
- 	        "productDescription": "bla",
- 	       },
-      ],
-   },
-   {
-      "name": "LGBT Store 2",
-      "address": "help",
+    {
+      "name": "Melissa's Cupcakes",
+      "city": "Chicago",
+      "thumbnail": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2019/05/yellow-cupcakes-with-chocolate-frosting-sprinkles.jpg",
       "Products": [
- 	      {
-  	        "productTitle": "Product1",
- 	        "productDescription": "bla",
- 	       },
-          {
-   	        "productTitle": "Product2",
-  	        "productDescription": "bla",
-  	       },
-          {
-   	        "productTitle": "Product3",
-  	        "productDescription": "bla",
-  	       },
-       ],
+        {
+          "productTitle": "Chocolate Cupcakes",
+          "productDescription": "32-count of catered cupcakes.",
+          "price": "16.50"
+        },
+        {
+          "productTitle": "Strawberry Cupcakes",
+          "productDescription": "32-count of catered cupcakes.",
+          "price": "17.50"
+        },
+        {
+          "productTitle": "Lemon Cupcakes",
+          "productDescription": "32-count of catered cupcakes.",
+          "price": "17.50"
+        }
+      ]
     },
     {
-       "name": "LGBT Store 3",
-       "address": "help",
-       "Products": [
-  	      {
-   	        "productTitle": "Product1",
-  	        "productDescription": "bla",
-  	       },
-           {
-    	        "productTitle": "Product2",
-   	        "productDescription": "bla",
-   	       },
-           {
-    	        "productTitle": "Product3",
-   	        "productDescription": "bla",
-   	       },
-        ],
-     },
-  ],
+      "name": "Carol's Cupcakes",
+      "city": "New York",
+      "thumbnail": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2019/05/yellow-cupcakes-with-chocolate-frosting-sprinkles.jpg",
+      "Products": [
+        {
+          "productTitle": "Dark Chocolate Cupcakes",
+          "productDescription": "32-count of catered cupcakes.",
+          "price": "26.50"
+        },
+        {
+          "productTitle": "Chocolate Covered Strawberry Cupcakes",
+          "productDescription": "32-count of catered cupcakes.",
+          "price": "27.50"
+        },
+        {
+          "productTitle": "Lemon Meringue Cupcakes",
+          "productDescription": "32-count of catered cupcakes.",
+          "price": "27.50"
+        }
+      ]
+    },
+    {
+      "name": "Mel's Cupcakes",
+      "city": "Chicago",
+      "thumbnail": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/1/14/0/FN_Cupcakes-App-Go-To-Vanilla-Cupcake_s4x3.jpg.rend.hgtvcom.826.620.suffix/1390332048162.jpeg",
+      "Products": [
+        {
+          "productTitle": "Rich Chocolate Cupcakes",
+          "productDescription": "32-count of catered cupcakes.",
+          "price": "16.50"
+        },
+        {
+          "productTitle": "Pink Strawberry Cupcakes",
+          "productDescription": "32-count of catered cupcakes.",
+          "price": "17.50"
+        },
+        {
+          "productTitle": "Yellow Lemon Cupcakes",
+          "productDescription": "32-count of catered cupcakes.",
+          "price": "17.50"
+        }
+      ]
+    }
+  ]
 }
